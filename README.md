@@ -1,6 +1,4 @@
-# Sentiment-Analysis-on-Amazon-Reviews
-
-Sentiment Analysis of Amazon AWS Software Reviews using NLP and Machine Learning
+# Sentiment Analysis of Amazon AWS Software Reviews using NLP and Machine Learning
 ---------------------------------------------------------------------------------
 🎯 Objective:
 --------------
@@ -17,7 +15,7 @@ Handled class imbalance using class_weight='balanced'.
 Used confusion matrix, precision, recall, and F1-score for performance evaluation.
 
 Saved the final model and TF-IDF vectorizer using joblib for real-time prediction on new reviews.
-Built a complete text classification pipeline with potential for integration into production or deployment via Streamlit or Flask.
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 💡 Skills & Tools Used:
 -----------------------
